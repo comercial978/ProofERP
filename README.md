@@ -54,6 +54,11 @@ https://github.com/comercial978/ProofERP
 🔗 **Contrato deployado na rede Sepolia:**  
 https://sepolia.etherscan.io/address/0x0356d853CE5c60a3478c9B71A0983A82A25e1855
 
+🔗 **Link da Transação (Sepolia Etherscan):**
+https://sepolia.etherscan.io/tx/0x17f1e681a35ec84873fedcf8249132d9f9e334007618365e89b398eb5823717f
+
+
+
 ## Endereço do contrato
 
 ```solidity
@@ -248,6 +253,11 @@ Transações públicas e verificáveis.
 
 ---
 
+## Verificação On-Chain
+
+Transação pública validada no Sepolia Etherscan:
+
+https://sepolia.etherscan.io/tx/0x17f1e681a35ec84873fedcf8249132d9f9e334007618365e89b398eb5823717f
 
 ## Verificação On-Chain
 
