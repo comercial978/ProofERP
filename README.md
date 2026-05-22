@@ -20,19 +20,25 @@ O projeto foi desenvolvido para o desafio **ProofChain — Blockchain** do HackW
 ## Pitch Deck
 
 Slides da apresentação:
-https://github.com/comercial978/ProofERP/blob/main/slides/ProofERP_Hackweb_LGVG_v2.pdf
+
+https://github.com/comercial978/ProofERP/blob/main/slides/ProofERP_Hackathon_LGVG_v3.pdf
+
+Caso o preview do GitHub não carregue corretamente em alguns navegadores, utilize o download direto do PDF:
+
+https://raw.githubusercontent.com/comercial978/ProofERP/main/slides/ProofERP_Hackathon_LGVG_v3.pdf
+
 
 ---
 
 🎥 **Vídeo oficial do projeto:**  
-https://youtu.be/FACL5BhZqmY?si=CdHOKvZHIBu9wwRE
+https://youtu.be/FACL5BhZqmY?si=oW9UeyokjTsu0p99
 
 ---
 
 # Aplicação Online
 
 🌐 **Deploy Vercel:**  
-https://proof-mha6hqern-comercial978s-projects.vercel.app/
+https://proof-erp.vercel.app/
 
 ---
 
