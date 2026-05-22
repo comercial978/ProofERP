@@ -248,13 +248,6 @@ Transações públicas e verificáveis.
 
 ---
 
-# Prints do Projeto
-
-## Interface Principal
-
-```text
-Adicione aqui o print principal da aplicação
-```
 
 ## Consulta Blockchain
 
