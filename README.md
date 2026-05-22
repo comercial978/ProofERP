@@ -249,11 +249,9 @@ Transações públicas e verificáveis.
 ---
 
 
-## Consulta Blockchain
+## Verificação On-Chain
 
-```text
-Adicione aqui o print da consulta blockchain
-```
+![Verificação Blockchain](./images/printsepolia.png)
 
 ---
 
