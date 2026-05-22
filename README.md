@@ -17,6 +17,13 @@ O projeto foi desenvolvido para o desafio **ProofChain — Blockchain** do HackW
 
 # Demonstração em Vídeo
 
+## Pitch Deck
+
+Slides da apresentação:
+https://github.com/comercial978/ProofERP/blob/main/slides/ProofERP_Hackweb_LGVG.pdf
+
+---
+
 🎥 **Vídeo oficial do projeto:**  
 https://youtu.be/FACL5BhZqmY?si=CdHOKvZHIBu9wwRE
 
